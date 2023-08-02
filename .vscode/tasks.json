@@ -9,7 +9,7 @@
         "-g",
         "${file}",
         "-o",
-        "${workspaceFolder}\\Home\\build\\${fileBasenameNoExtension}.exe",
+        "${workspaceFolder}\\build\\${fileBasenameNoExtension}.exe",
         "-lbgi",
         "-lgdi32",
         "-lcomdlg32",
